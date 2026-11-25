@@ -33,5 +33,9 @@ export class Step7ListGroupMenu {
       text: 'Step9 Component Output',
       routerLink: 'component-output-example',
     },
+    {
+      text: 'Step10 Template Forms',
+      routerLink: 'template-driven-form',
+    },
   ];
 }
